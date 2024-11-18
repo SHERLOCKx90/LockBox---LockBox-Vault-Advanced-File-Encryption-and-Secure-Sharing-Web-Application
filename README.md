@@ -1,6 +1,8 @@
-# LockBox 🔐
+# LockBox 🔐📂
 
-**LockBox** is a secure file encryption and decryption platform using AES-256-CTR method, that allows users to upload, store, and share files securely. With unique secret keys generated for every file, users can ensure that their data is encrypted, accessible only to authorized individuals with the key.
+## An Improved Version of CipherFiles. ✨
+
+**LockBox** is a secure file encryption and decryption platform using AES-256-CTR method, that allows users to upload, store, and share files securely. With unique secret keys generated for every file, users can ensure that their data is encrypted, accessible only to authorized individuals with the key. 
 
 ---
 
@@ -159,9 +161,9 @@ PORT=5000
 ```
 ---
 
-## Contributing
+## Contributing ❤️🙏
 
-We welcome contributions! Follow these steps:
+I love contributions! Follow these steps:
 
 1. Fork the repository.
 2. Create a new branch:
@@ -188,7 +190,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For inquiries or support, contact us at [your_email@example.com](mailto:your_email@example.com).
+For inquiries or support, contact me at [sherlockx90@gmail.com](mailto:sherlockx90@gmail.com).
 
 ---
 
