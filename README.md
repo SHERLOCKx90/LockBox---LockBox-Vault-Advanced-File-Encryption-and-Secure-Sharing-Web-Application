@@ -16,6 +16,18 @@
 
 ---
 
+## Snippets
+
+![dashboard](https://github.com/user-attachments/assets/82032219-7f35-4fde-8c83-9592477a0a7f)
+
+![myfiles](https://github.com/user-attachments/assets/591f91f0-2dd9-4a28-b95b-af7c1f43ec9c)
+
+![upload](https://github.com/user-attachments/assets/d08c65a7-643b-416d-bd7f-a50dead13d45)
+
+![copied](https://github.com/user-attachments/assets/fc357b70-7e22-4ba4-b1c8-8ec750a9765d)
+
+![filedownloadunlocked](https://github.com/user-attachments/assets/c8d769cf-a66c-4798-8ce1-df5af9a52570)
+
 ## Work Flow
 
 1. **Upload a File**: Log in, upload a file, and get a unique secret key for encryption.
