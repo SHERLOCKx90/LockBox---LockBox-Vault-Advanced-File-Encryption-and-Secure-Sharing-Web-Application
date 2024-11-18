@@ -81,7 +81,7 @@ function Login() {
               gutterBottom
               fontWeight="bold"
             >
-              Welcome Back to CipherFiles!
+              Welcome Back to LockBox!
             </Typography>
             <Typography variant="body1" color="textSecondary" mb={4}>
               Please enter your credentials to continue.
